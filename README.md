@@ -1,9 +1,2 @@
-# Hello-world-c
-
-#include <stdio.h>
-
-int main() {
-   
-    printf("Hello, World!\n");
-    return 0;
-}
+# My C Coding Journey
+Welcome to my repository where i log my process learning c!
